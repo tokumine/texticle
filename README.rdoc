@@ -4,7 +4,7 @@
 
 == DESCRIPTION:
 
-Texticle exposes full text search capabilities from PostgreSQL, and allows
+Texticle exposes the full text search capabilities from PostgreSQL, and allows
 you to declare full text indexes.  Texticle will extend ActiveRecord with
 named_scope methods making searching easy and fun!
 
@@ -84,6 +84,13 @@ Trigram searching is still in beta, so expect the API to change and/or improve.
 == INSTALL:
 
 * sudo gem install texticle
+
+== KEYWORDS:
+
+* tsearch
+* tsearch2
+* postgres search
+* postgresql search
 
 == LICENSE:
 
